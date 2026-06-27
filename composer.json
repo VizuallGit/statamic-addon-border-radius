@@ -15,6 +15,7 @@
     "extra": {
         "statamic": {
             "name": "Vizuall Border Radius",
+            "description": "Border radius fieldtype for Statamic",
             "provider": "Vizuall\\BorderRadius\\AddonServiceProvider"
         },
         "laravel": {
